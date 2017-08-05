@@ -1,0 +1,9 @@
+Building Ravers
+
+See doc/readme-qt.rst for instructions on building Ravers QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Ravers.
+
+See doc/build-*.txt for instructions on building raversd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Ravers.
